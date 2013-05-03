@@ -19,3 +19,4 @@ src/ght_config.h
 src/CMakeFiles
 src/Makefile
 src/CMakeScripts
+build/
